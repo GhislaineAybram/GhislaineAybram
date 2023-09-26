@@ -1,36 +1,36 @@
-# 👋 Bienvenue,
+## 👋 Bienvenue,
 
 > [!IMPORTANT]
 > 👀 Je recherche une alternance à partir du 26 Février 2024 (rythme 4 jours par semaine en entreprise / 1 jour à l'école).
 
-# 💬 Présentation
+## 💬 Présentation
 Après 14 ans d'expérience dans le domaine de la propreté industrielle j'ai ressenti le besoin de préparer la suite de mon parcours. Après un bilan de compétences j'ai décidé de me reconvertir dans le développement informatique.
 
-# 🌱 Formation
+## 🌱 Formation
 Je suis actuellement une formation de Concepteur développeur d'applications au sein de Ada Tech School (Titre RNCP Niveau VI Bac+3).
 Cette formation de dévéloppeur généraliste se compose de deux modules :
 •	9 mois de formation avec projets de groupes
 •	1 an d'alternance en entreprise
 
-# 🧮 Compétences
+## 🧮 Compétences
 
-## Stack
+### Stack
 •	Javascript
 •	HTML
 •	CSS
 •	Python
 •	PHP
 
-## Framework
+### Framework
 
-## Outils
+### Outils
 •	GitHub
 •	Agile
 
-## Database
+### Database
 •	SQL  
 
-# 🧩 Soft skills
+## 🧩 Soft skills
 •	Esprit d’équipe
 •	Analyse
 •	Engagée 
