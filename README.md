@@ -42,7 +42,7 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 •	Dynamique  
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ghislaine-aybram/))
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghislaine-aybram/)
 
 <!---
 GhislaineAybram/GhislaineAybram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
