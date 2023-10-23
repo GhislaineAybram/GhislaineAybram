@@ -9,26 +9,27 @@ Après 14 ans d'expérience dans le domaine de la propreté industrielle j'ai re
 ## 🌱 Formation
 Je suis actuellement une formation de Concepteur développeur d'applications au sein de Ada Tech School (Titre RNCP Niveau VI Bac+3).
 Cette formation de dévéloppeur généraliste se compose de deux modules :
-•	9 mois de formation avec projets de groupes
-•	1 an d'alternance en entreprise
+-	9 mois de formation avec projets de groupes
+-	1 an d'alternance en entreprise
 
 ## 🧮 Compétences
 
-### Stack
+**Stack**
+•	Python
 •	Javascript
 •	HTML
 •	CSS
-•	Python
 •	PHP
+•	SQL
 
-### Framework
+**Framework**
 
-### Outils
+**Outils**
 •	GitHub
-•	Agile
+•	Trello
 
-### Database
-•	SQL  
+**Database**
+•	MySQL  
 
 ## 🧩 Soft skills
 •	Esprit d’équipe
@@ -39,6 +40,9 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 •	Adaptabilité
 •	Rigoureuse
 •	Dynamique  
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/ghislaine-aybram/))
 
 <!---
 GhislaineAybram/GhislaineAybram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
