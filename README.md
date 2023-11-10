@@ -17,14 +17,17 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 **Stack**
 •	Python
 •	SQL
-•	Java (en cours)
 •	Javascript
+•	Node.js
 •	HTML
 •	CSS
 •	PHP
+•	Java (initiation)
 
 **Framework**
 •	Bootstrap
+•	React
+•	Express
 
 **Outils**
 •	GitHub
@@ -34,7 +37,8 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 •	Microsoft Teams
 
 **Database**
-•	MySQL  
+•	MySQL
+•	MongoDB
 
 ## 🧩 Soft skills
 •	Esprit d’équipe
