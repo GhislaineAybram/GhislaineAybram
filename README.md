@@ -25,8 +25,9 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 •	Java (initiation)
 
 **Framework**
-•	Bootstrap
 •	React
+•	Flask
+•	Bootstrap
 •	Express
 
 **Outils**
