@@ -26,20 +26,24 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 
 **Framework**
 •	React
+•	Tailwind
 •	Flask
+•	Laravel
 •	Bootstrap
 •	Express
 
 **Outils**
 •	GitHub
+•	Docker
 •	Trello
 •	Notion
 •	Slack
 •	Microsoft Teams
 
 **Database**
-•	MySQL
-•	MongoDB
+-	Relationnelle : MySQL •	PostgreSQL
+-	Non relationnelle : MongoDB
+
 
 ## 🧩 Soft skills
 •	Esprit d’équipe
