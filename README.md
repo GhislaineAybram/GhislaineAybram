@@ -12,9 +12,9 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 ## 🧮 Compétences
 
 **Stack**
-- Back : Python • PHP • Node.js • SQL •	Java (initiation)
 - Front : HTML • CSS 
-- Full : Javascript 
+- Full : Typescript • Javascript
+- Back : Python • PHP • Node.js • SQL •	Java (initiation)
 
 **Framework / Library**
 -	Front : React •	Tailwind • Bootstrap
@@ -23,9 +23,10 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 - Data : Numpy • Pandas
 
 **Outils**
--	GitHub
+-	GitHub • GitLab
 - Environnement : Docker
-- Gestion de projet : Trello • Notion
+- Gestion de projet : Rally • Trello • Notion
+- Tests : Playwright (e2e)
 - Outils collaboratifs : Slack • Microsoft Teams
 
 **Database**
