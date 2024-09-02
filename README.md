@@ -7,26 +7,26 @@ Après 14 ans d'expérience dans le domaine de la propreté industrielle j'ai re
 Je suis actuellement une formation de Concepteur développeur d'applications au sein de Ada Tech School (Titre RNCP Niveau VI Bac+3).
 Cette formation de dévéloppeur généraliste se compose de deux modules :
 -	9 mois de formation avec projets de groupes
--	1 an d'alternance en entreprise
+-	1 an d'alternance en entreprise (au sein de General Electric HealthCare)
 
 ## 🧮 Compétences
 
 **Stack**
 - Front : HTML • CSS 
 - Full : Typescript • Javascript
-- Back : Python • PHP • Node.js • SQL •	Java (initiation)
+- Back : Python • PHP • Node.js • SQL
 
 **Framework / Library**
 -	Front : React •	Tailwind • Bootstrap
 - Back : Flask • Express
--	Full-stack : Laravel
+-	Full-stack : Laravel • Nuxt
 - Data : Numpy • Pandas
 
 **Outils**
 -	GitHub • GitLab
 - Environnement : Docker
 - Gestion de projet : Rally • Trello • Notion
-- Tests : Playwright (e2e)
+- Tests : Playwright (E2E)
 - Outils collaboratifs : Slack • Microsoft Teams
 
 **Database**
