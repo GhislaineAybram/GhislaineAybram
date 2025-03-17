@@ -1,13 +1,9 @@
 ## 👋 Bienvenue,
 
 ## 💬 Présentation
-Après 14 ans d'expérience dans le domaine de la propreté industrielle j'ai ressenti le besoin de préparer la suite de mon parcours. Un bilan de compétences plus tard, j'ai décidé de me reconvertir dans le développement informatique.
-
-## 🌱 Formation
-Je suis actuellement une formation de Concepteur développeur d'applications au sein de Ada Tech School (Titre RNCP Niveau VI Bac+3).
-Cette formation de dévéloppeur généraliste se compose de deux modules :
--	9 mois de formation avec projets de groupes
--	1 an d'alternance en entreprise (au sein de General Electric HealthCare)
+Après 14 ans d'expérience dans le domaine de la propreté industrielle sur différents postes, j'ai ressenti le besoin de préparer la suite de mon parcours. 
+Un bilan de compétences plus tard, j'ai décidé de me reconvertir dans le développement informatique au sein de Ada Tech School et d'y préparer le RNCP Concepteur développeur d'applications (Titre RNCP Niveau VI Bac+3).
+Après une alternance de 12 mois au sein de General Electric HealthCare en tant que développeuse Font-End sur des applications avancées en imagerie médicale, je suis à la recherche d'une prochaine mission toujours dans le développement Front-End.
 
 ## 🧮 Compétences
 
@@ -19,7 +15,7 @@ Cette formation de dévéloppeur généraliste se compose de deux modules :
 **Framework / Library**
 -	Front : React •	Tailwind • Bootstrap
 - Back : Flask • Express
--	Full-stack : Laravel • Nuxt
+-	Full-stack : Laravel • Nuxt (Vue.js)
 - Data : Numpy • Pandas
 
 **Outils**
