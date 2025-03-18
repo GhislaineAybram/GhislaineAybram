@@ -3,6 +3,7 @@
 ## 💬 Présentation
 Après 14 ans d'expérience dans le domaine de la propreté industrielle sur différents postes, j'ai ressenti le besoin de préparer la suite de mon parcours. 
 Un bilan de compétences plus tard, j'ai décidé de me reconvertir dans le développement informatique au sein de Ada Tech School et d'y préparer le RNCP Concepteur développeur d'applications (Titre RNCP Niveau VI Bac+3).
+
 Après une alternance de 12 mois au sein de General Electric HealthCare en tant que développeuse Font-End sur des applications avancées en imagerie médicale, je suis à la recherche d'une prochaine mission toujours dans le développement Front-End.
 
 ## 🧮 Compétences
