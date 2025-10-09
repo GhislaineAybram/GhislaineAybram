@@ -1,7 +1,7 @@
 ## 👋 Bienvenue,
 
 ## 💬 Présentation
-Développeuse Front-end, mon expérience passée en gestion de projet et en Lean management m’a permis d’acquérir rigueur, autonomie et sens du résultat, que je mets aujourd’hui au service du développement web. 
+Développeuse Front-End, mon expérience passée en gestion de projet et en Lean management m’a permis d’acquérir rigueur, autonomie et sens du résultat, que je mets aujourd’hui au service du développement web. 
 
 Forte d'une première expérience concrète chez GE Healthcare en imagerie médicale, j’ai contribué à une application d’aide au diagnostic en imagerie médicale dans le cadre d’un projet hospitalo-universitaire avec le CHU de Nantes.
 
@@ -20,21 +20,22 @@ Formée à Ada Tech School, j’ai validé mon titre RNCP Niveau VI de Concepteu
 - Back : Python • PHP • Node.js • SQL
 
 **Framework / Library**
--	Front : React •	Angular (en cours) • Tailwind • Bootstrap
+-	Front : Angular • React •	Tailwind • Bootstrap
 - Back : Flask • Express
--	Full-stack : Laravel • Nuxt (Vue.js)
-- Data : Numpy • Pandas
+-	Full-stack : Nuxt (Vue.js) • Laravel
 
 **Outils**
--	GitHub • GitLab
-- Environnement : Docker
-- Gestion de projet : Rally • Trello • Notion • Miro
-- Tests : Playwright (E2E) • Vitest • Sinon • Chai
+- Gestion de projet en mode agile SCRUM : Rally • Trello • Notion • Miro
 - Outils collaboratifs : Slack • Microsoft Teams
+- Tests : Playwright (E2E) • Vitest • Sinon • Chai
+- Versioning : GitHub • GitLab
+-	CI/CD : GitHub Actions
+- Environnement : Docker
 
 **Database**
 -	Relationnelle : MySQL •	PostgreSQL • Supabase
 -	Non relationnelle : MongoDB
+-	ORM : Drizzle
 
 
 ## 🧩 Soft skills
