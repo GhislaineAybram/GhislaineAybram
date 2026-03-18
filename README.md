@@ -1,16 +1,20 @@
 ## 👋 Bienvenue,
 
 ## 💬 Présentation
-Développeuse Front-End, mon expérience passée en gestion de projet et en Lean management m’a permis d’acquérir rigueur, autonomie et sens du résultat, que je mets aujourd’hui au service du développement web. 
-
-Forte d'une première expérience concrète chez GE Healthcare en imagerie médicale, j’ai contribué à une application d’aide au diagnostic en imagerie médicale dans le cadre d’un projet hospitalo-universitaire avec le CHU de Nantes.
+Développeuse Front-end actuellement en poste chez CACD2, je travaille sur des applications Angular.
+Mon expérience passée en gestion de projet et en Lean management m’a permis d’acquérir rigueur, autonomie et sens du résultat, que je mets aujourd’hui au service du développement web.
 
 Mon moteur : construire des outils utiles qui font gagner du temps aux utilisateurs.
 
-Je recherche un environnement où je pourrai continuer à progresser techniquement, tout en apportant ma rigueur, mon esprit d'analyse et mon engagement.
+## 📌 Projets marquants
 
+- CACD2 - refonte de parcours utilisateurs complexes : Angular - TypeScript - RxJS - Design System
+- GE Healthcare - app d’imagerie médicale (eCAN) : Typescript (MVC) - Playwright
+- Poudras Conseil Patrimoine - site vitrine en production (https://www.poudras-conseil-patrimoine.fr/) : Angular - Typescript - Tailwind - Supabase
+- Festivo - app de gestion d’événements prenant en compte les allergies des utilisateurs : Nuxt - Typescript - Tailwind - ORM Drizzle - Supabase
+  
 ## 🎓 Diplôme
-Formée à Ada Tech School, j’ai validé mon titre RNCP Niveau VI de Concepteur développeur d’applications en mars 2025
+Titre RNCP Niveau VI de Concepteur développeur d’applications (mars 2025)
 
 ## 🧮 Compétences
 
@@ -25,9 +29,9 @@ Formée à Ada Tech School, j’ai validé mon titre RNCP Niveau VI de Concepteu
 -	Full-stack : Nuxt (Vue.js) • Laravel
 
 **Outils**
-- Gestion de projet en mode agile SCRUM : Rally • Trello • Notion • Miro
+- Gestion de projet en mode agile SCRUM : Rally • Jira • Trello • Notion • Miro
 - Outils collaboratifs : Slack • Microsoft Teams
-- Tests : Playwright (E2E) • Vitest • Sinon • Chai
+- Tests : Playwright (E2E) • Vitest • Sinon • Chai • Jest
 - Versioning : GitHub • GitLab
 -	CI/CD : GitHub Actions
 - Environnement : Docker
